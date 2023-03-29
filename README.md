@@ -1,4 +1,4 @@
-# Explore Android App V0.1
+# Explore Android App
 ## Installation
 To install the app, simply download explore-android.apk on your phone and tap the file to start the installation process.
 ## Usage
